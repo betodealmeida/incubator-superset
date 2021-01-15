@@ -124,7 +124,7 @@
     "mathjs": "^8.0.1",
     "memoize-one": "^5.1.1",
     "moment": "^2.26.0",
-    "mousetrap": "^1.6.1",
+    "mousetrap": "^1.6.5",
     "mustache": "^2.2.1",
     "omnibar": "^2.1.1",
     "polished": "^3.6.5",
