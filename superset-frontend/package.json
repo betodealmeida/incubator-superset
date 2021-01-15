@@ -187,7 +187,7 @@
     "@babel/preset-env": "^7.12.11",
     "@babel/preset-react": "^7.12.10",
     "@babel/register": "^7.12.10",
-    "@emotion/babel-preset-css-prop": "^10.2.1",
+    "@emotion/babel-preset-css-prop": "^11.0.0",
     "@hot-loader/react-dom": "^16.13.0",
     "@istanbuljs/nyc-config-typescript": "^1.0.1",
     "@storybook/addon-actions": "^6.0.13",
